@@ -19,6 +19,9 @@ jobs:
         with:
           start: npm test
           browser: chrome
+        run: |
+          npm install
+          npm test
       - name: Upload Cypress test videos
         uses: actions/upload-artifact@v2
         with:
