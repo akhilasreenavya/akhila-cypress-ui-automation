@@ -1,0 +1,21 @@
+# ignore node_modules directory
+node_modules/
+
+# ignore build artifacts
+.idea/
+cypress/videos/
+cypress/archieve/
+
+# ignore log files
+
+
+# ignore .env files
+.env
+
+# ignore .DS_Store files on macOS
+.DS_Store
+
+# ignore cache and lock files
+yarn.lock
+package-lock.json
+
