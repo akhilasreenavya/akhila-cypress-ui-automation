@@ -20,3 +20,5 @@ viewportHeight: 800) and mobile simulator (viewport width: 375, viewportHeight: 
 5. I am installing dependencies npm and then using the cypress Github Actions I am running the tests by passing cypress run as a command in my package.json.
 6. To make sure the results are visible and accessible I am uploading the results(video) as artifact using "upload artifact Github Actions" and the test results are also displayed in the workflow execution(https://github.com/akhilasreenavya/Conduit-cypress/actions/runs/4780424868).
 ![Test case results](img/testcase_results.PNG)
+
+Execution: You will be able to execute this repo as it is on your side.
