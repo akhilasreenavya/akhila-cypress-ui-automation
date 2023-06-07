@@ -1,6 +1,5 @@
 # Conduit
-ConduitTest
-TASK 2: TEST AUTOMATION
+ConduitTest- with Cypress UI Automation 
 
 Please create automated tests for Conduit: http://angularjs.realworld.io/#/. The automated
 tests should contain tests for the login feature and the settings feature of the app.
